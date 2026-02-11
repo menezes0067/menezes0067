@@ -2,7 +2,7 @@
 
 ```Road to back end development```
 
-Estudante de Engenharia de Software (3/8 Semestre)
+Estudante de Engenharia de Software (4/8 Semestre)
 
 <div> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menezes0067&show_icons=true&theme=dark">
