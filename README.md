@@ -1,11 +1,9 @@
 ## 💻 Deivid Menezes da Silva
 
-```Road to back end development```
+```Software engineer```
 
-Estudante de Engenharia de Software (4/8 Semestre)
-
-<div> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=menezes0067&show_icons=true&theme=dark">
+<div align="center"> 
+<img height="220em" src="./laptop.gif">
 </div>
 
 ## stacks 
