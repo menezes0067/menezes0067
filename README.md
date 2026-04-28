@@ -1,4 +1,4 @@
-## 💻 Deivid Menezes da Silva
+## 💻 Deivid Menezes
 
 ```Software engineer```
 
